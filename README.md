@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathagomes&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathagomes&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 # Principais Habilidades
