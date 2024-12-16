@@ -14,8 +14,8 @@
     <defs>
         <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
             <!-- Atualizando as cores para os tons de roxo -->
-            <stop offset="0%" stop-color="#131524"/>
-            <stop offset="100%" stop-color="#8A2BE2"/> <!-- Roxo mais claro -->
+            <stop offset="0%" stop-color="#0073CE"/>
+            <stop offset="100%" stop-color="#36BCF7"/> <!-- Roxo mais claro -->
         </linearGradient>
     </defs>
     <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
@@ -44,5 +44,5 @@
             </animate>
         </path>
     </g>
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="40%" class="text" style="fill:#fff;" stroke="none" stroke-width="1">Jonatha Gomes</text>
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="40%" class="text" style="fill:#fff;" stroke="none" stroke-width="1">Desenvolvedor Web</text>
 </svg>
