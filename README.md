@@ -1,7 +1,7 @@
 <img src="./files/header-image.svg" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=635&height=60&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jonatha;Tenho+20+anos;E+sou+de+Fortaleza%2C+Cear%C3%A1;Seja+bem+vindo+(a)+ao+meu+perfil!+%3A" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=635&height=60&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jonatha;Tenho+20+anos;E+sou+de+Fortaleza%2C+Cear%C3%A1;Seja+bem+vindo+(a)+ao+meu+perfil!+%3A" />
 </div>
 
 <div align="center">
