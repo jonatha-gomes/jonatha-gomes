@@ -1,10 +1,10 @@
 ![Header](./files/header-image.svg)
 
-<center>
+<div>
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=40&pause=1000&center=true&vCenter=true&width=635&height=60&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jonatha;Tenho+20+anos;E+sou+de+Fortaleza%2C+Cear%C3%A1;Seja+bem+vindo+(a)+ao+meu+perfil!+%3A>)](https://git.io/typing-svg)
 
-</center>
+</div>
 
 <center>
 
