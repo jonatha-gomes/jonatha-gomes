@@ -46,6 +46,14 @@ Currently working as a Front-End Freelancer, delivering production-ready web sol
 - Meta Ads
 - Google Ads
 
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Firebase
+- Supabase
+
 ### Currently Learning
 
 - Node.js
