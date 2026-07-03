@@ -1,39 +1,83 @@
-<img src="./files/header-image.svg" />
+# Hi there! 👋 I'm Francisco Jonatha Gomes
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=635&height=35&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jonatha;Tenho+20+anos;E+sou+de+Fortaleza%2C+Cear%C3%A1;Seja+bem+vindo(a)+ao+meu+perfil!" />
-</div>
+Front-End Developer focused on building modern, scalable and high-performance web applications.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathagomes&layout=compact&hide_border=true&title_color=FFC800&text_color=00bfbf&bg_color=0d1117" />
-</div>
+> React • Next.js • TypeScript • JavaScript
 
-# Principais Habilidades
+## About
 
-<div style="display:flex; gap: 8px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white" />
-</div>
+Front-End Developer with professional experience building web applications using React, Next.js and TypeScript.
 
-# Ferramentas
+I specialize in building integration-heavy systems, including omnichannel communication platforms, payment flows, and analytics-driven applications.
 
-<div style="display:  flex; gap: 8px">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+My work focuses on scalable front-end architectures, performance optimization, and integrations with complex APIs such as REST, GraphQL, Webhooks, and real-time communication systems.
 
-# Contato
+Currently working as a Front-End Freelancer, delivering production-ready web solutions with clean architecture and strong focus on performance and user experience.
 
-<a href="https://linkedin.com/in/jonatha-gomes">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+## Tech Stack
+
+### Front-End
+
+- React
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### UI
+
+- Tailwind CSS
+- Stitches
+- Ant Design
+- Material UI
+
+### APIs & Integrations
+
+- REST APIs
+- GraphQL
+- Webhooks
+- WebSockets
+
+### Analytics
+
+- Google Analytics 4
+- Meta Pixel
+- Meta Ads
+- Google Ads
+
+### Currently Learning
+
+- Node.js
+- Software Testing (Unit & Integration Testing)
+- Artificial Intelligence (LLMs & AI Integrations)
+
+### Areas of Interest
+
+- Modern Front-End Development
+- Software Architecture
+- Performance Optimization
+- Artificial Intelligence
+- Developer Experience
+
+## Professional Experience
+
+Currently working as a Front-End Freelancer, building modern web applications, landing pages and custom solutions with a strong focus on performance, SEO, payment integrations, and analytics.
+
+Previously worked on high-traffic platforms, omnichannel systems integrated with the Meta ecosystem, and enterprise applications using React, Next.js and TypeScript.
+
+
+## Featured Work
+
+My professional experience includes working on production systems such as:
+
+- Omnichannel communication platforms integrated with Meta APIs (WhatsApp, Instagram, Facebook), including real-time messaging and automation flows
+- Payment and subscription systems with webhook-based event processing
+- High-traffic web applications focused on SEO, performance optimization, and conversion tracking
+- Front-end refactoring of legacy React applications, improving maintainability and architecture
+- Marketing and analytics integrations using Google Analytics 4 (GA4), Meta Pixel, and advertising platforms
+
+## Let's Connect
+
+- LinkedIn: linkedin.com/in/jonatha-gomes
+- Email: jonatha.dev.js@gmail.com
