@@ -79,5 +79,5 @@ My professional experience includes working on production systems such as:
 
 ## Let's Connect
 
-- LinkedIn: linkedin.com/in/jonatha-gomes
+- LinkedIn: https://linkedin.com/in/jonatha-gomes
 - Email: jonatha.dev.js@gmail.com
