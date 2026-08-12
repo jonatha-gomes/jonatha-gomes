@@ -89,3 +89,9 @@ My professional experience includes working on production systems such as:
 
 - LinkedIn: https://linkedin.com/in/jonatha-gomes
 - Email: jonatha.dev.js@gmail.com
+
+## Previous GitHub Account
+
+I previously used another GitHub account, where you can find some of my older projects and contributions. I no longer have access to that account.
+
+🔗 **Previous GitHub:** [github.com/jonathagomes](https://github.com/jonathagomes)
